@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Spandan Wagh
 
-<!--
-**spandan-wagh/spandan-wagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student | Unreal Engine Developer | AI Systems | AR/VR Research
 
-Here are some ideas to get you started:
+## Current Projects
+- Varo – Unreal Engine AI NPC Framework
+- Future XR Esports Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Artificial Intelligence
+- AR/VR
+- Competitive Game Development
+- Esports
